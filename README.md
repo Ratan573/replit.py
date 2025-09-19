@@ -1,2 +1,0 @@
-# replit.py
- Replit Apps
